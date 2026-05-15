@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/openlid/open-lid/main/resources/branding/openlid-org-avatar.png" alt="Open-Lid" width="120" height="120" />
+<img src="https://raw.githubusercontent.com/openlid/openlid/main/resources/branding/openlid-org-avatar.png" alt="Open-Lid" width="120" height="120" />
 
 # Open-Lid
 
@@ -17,7 +17,7 @@ behind a platform-abstraction layer in pure Rust.
 
 ## Projects
 
-### [open-lid](https://github.com/openlid/open-lid)
+### [openlid](https://github.com/openlid/openlid)
 
 > Keep your laptop awake — even with the lid closed.
 
@@ -27,14 +27,14 @@ binary, signed and notarized for macOS distribution.
 
 ```bash
 # macOS (today):
-brew install --cask openlid/tap/open-lid
+brew install --cask openlid/tap/openlid
 
 # Linux + Windows: planned (see project roadmap).
 ```
 
-[Latest release →](https://github.com/openlid/open-lid/releases/latest) ·
-[Documentation →](https://github.com/openlid/open-lid#readme) ·
-[Architecture →](https://github.com/openlid/open-lid/blob/main/docs/ARCHITECTURE.md)
+[Latest release →](https://github.com/openlid/openlid/releases/latest) ·
+[Documentation →](https://github.com/openlid/openlid#readme) ·
+[Architecture →](https://github.com/openlid/openlid/blob/main/docs/ARCHITECTURE.md)
 
 ## Principles
 
