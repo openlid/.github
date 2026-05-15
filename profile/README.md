@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/openlid/openlid/main/resources/branding/openlid-org-avatar.png" alt="Open-Lid" width="120" height="120" />
+<img src="https://raw.githubusercontent.com/openlid/openlid/main/resources/branding/openlid-org-avatar.png" alt="OpenLid" width="120" height="120" />
 
-# Open-Lid
+# OpenLid
 
 **Tools that keep your laptop out of your way.**
 
